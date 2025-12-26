@@ -1,6 +1,6 @@
 # Bobyard - Comments Application
 
-This is the comments application made for the Bobyard coding assesement. The backend is buit with FastAPI and PostgreSQL as the database. The frontend is built with React with Typescript and TailwindCSS.
+This is the comments application made for the Bobyard coding assesement. The backend is built with FastAPI and PostgreSQL as the database. The frontend is built with React with Typescript and TailwindCSS.
 
 https://github.com/user-attachments/assets/22a59e87-2d2f-4530-b590-4cf7f97e7e59
 
@@ -11,6 +11,17 @@ https://github.com/user-attachments/assets/22a59e87-2d2f-4530-b590-4cf7f97e7e59
 - **View Comments**: Display all comments
 - **Update Comments**: Edit existing comment text
 - **Delete Comments**: Remove comments 
+
+## Potential further improvements
+
+Here are some things that I think would be worth adding:
+- support for uploading images from files
+- more complex image validation to prevent displaying broken images
+- polling to fetch the latest comment state
+- pagination for performance and scalability
+- beautiful custom modals instead of the built-in confirm popups 
+- more thorough backend data validation
+- "like" feature
 
 ## Installation
 
