@@ -2,6 +2,9 @@
 
 This is the comments application made for the Bobyard coding assesement. The backend is buit with FastAPI and PostgreSQL as the database. The frontend is built with React with Typescript and TailwindCSS.
 
+https://github.com/user-attachments/assets/22a59e87-2d2f-4530-b590-4cf7f97e7e59
+
+
 ## Features
 
 - **Create Comments**: Add new comments with text and optional images
